@@ -1,3 +1,5 @@
+![image](https://github.com/taufikbudiw8/Statistics-for-Business-Pacmann---Employee-Attrition/assets/124851791/45a125f7-6260-4418-ad8e-8ce43a13689e)
+
 ## **Introduction and Background of Project**
 Employee attrition is the event when an employee leaves an organization for any reason and is not replaced for a long time, or not ever. It often results in a decrease in the size of an organization’s or department’s workforce because positions aren’t refilled when employees leave.
 
